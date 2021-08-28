@@ -188,7 +188,7 @@ else:
 
 
 updater = tg.Updater(TOKEN, workers=WORKERS, use_context=True)
-telethn = TelegramClient("MissVisa", API_ID, API_HASH)
+telethn = TelegramClient("missvisa", API_ID, API_HASH)
 pbot = Client("missvisapbot", api_id=API_ID, api_hash=API_HASH, bot_token=TOKEN)
 dispatcher = updater.dispatcher
 
