@@ -64,12 +64,12 @@ RUN apt update && apt upgrade -y && \
 # Pypi package Repo upgrade
 RUN pip3 install --upgrade pip setuptools
 
-# Copy Python Requirements to /root/AsunaRobot 
-RUN git clone -b shiken https://github.com/HuntingBots/AsunaRobot /root/AsunaRobot
-WORKDIR /root/AsunaRobot
+# Copy Python Requirements to /root/MissVisa 
+RUN git clone -b shiken https://github.com/callmevp/MissVisa /root/MissVisa
+WORKDIR /root/MissVisa
 
-#Copy config file to /root/AsunaRobot/AsunaRobot
-COPY ./AsunaRobot/sample_config.py ./AsunaRobot/config.py* /root/AsunaRobot/AsunaRobot/
+#Copy config file to /root/MissVisa/MissVisa
+COPY ./MissVisa/sample_config.py ./MissVisa/config.py* /root/MissVisa/MissVisa/
 
 ENV PATH="/home/bot/bin:$PATH"
 
@@ -77,4 +77,4 @@ ENV PATH="/home/bot/bin:$PATH"
 RUN pip3 install -U -r requirements.txt
 
 # Starting Worker
-CMD ["python3","-m","AsunaRobot"]
+CMD ["python3","-m","MissVisa"]
