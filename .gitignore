@@ -1,17 +1,17 @@
 # Config files, logs and stuff
-AsunaRobot/modules/helper_funcs/temp.txt
-AsunaRobot/elevated_users.json
-AsunaRobot/config.py
-AsunaRobot/config.ini
+MissVisa/modules/helper_funcs/temp.txt
+MissVisa/elevated_users.json
+MissVisa/config.py
+MissVisa/config.ini
 log.txt
 kangsticker.png
 updates.txt
 start_service.bat
 
 # Session files
-AsunaRobot/*.session
-AsunaRobot/*.session-journal
-Asuna.session-journal
+MissVisa/*.session
+MissVisa/*.session-journal
+Visa.session-journal
 *.session
 
 # Byte-compiled / optimized / DLL files
