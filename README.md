@@ -1,16 +1,16 @@
 <p align="center">
-  <img src="https://telegra.ph/file/a0518cd506643d784b9c5.jpg">
+  <img src="https://telegra.ph/file/3fbb6ebb6c40648ad9845.jpg">
 </p>
 
-# Asuna Robot
+# MissVisa
 
 ### Telegram Group
 <p align="left">
-<a href="https://t.me/AsunaRobotSupport" alt="Telegram!"> <img src="https://aleen42.github.io/badges/src/telegram.svg" /> </a>
+<a href="https://t.me/Visa_Support" alt="Telegram!"> <img src="https://aleen42.github.io/badges/src/telegram.svg" /> </a>
 
 ### Bot And Channel 
-* Bot Link:  <a href="http://t.me/princess_Asuna_Robot" alt="AsunaRobot"> <img src="https://img.shields.io/badge/%F0%9F%A4%96%20-princessAsunaRobot-blue" /> </a>
-* Support Channel: <a  href="https://t.me/AsunaLogUpdate" alt="Help Centre Logs"> <img  src="https://img.shields.io/badge/%F0%9F%92%A1-AsunaRobot%20Log%20Channel-9cf" /> </a>
+* Bot Link:  <a href="http://t.me/MissVisa_bot" alt="MissVisa"> <img src="https://img.shields.io/badge/%F0%9F%A4%96%20-MissVisa_bot-blue" /> </a>
+* Support Channel: <a  href="https://t.me/MissVisa_Official" alt="Help Centre Logs"> <img  src="https://img.shields.io/badge/%F0%9F%92%A1-MissVisa%20Log%20Channel-9cf" /> </a>
 
 ### Creating your own modules.
 
@@ -40,26 +40,26 @@ through the /stats command, which is only available to the bot owner.
 
 Once you've set up your database and your configuration is complete, simply run the bat file(if on windows) or run (Linux):
 
-python3 -m AsunaRobot
+python3 -m MissVisa
 
 You can use nssm to install the bot as service on windows and set it to restart on /gitpull 
 Make sure to edit the start and restart bats to your needs. 
 Note: the restart bat requires that User account control be disabled.
 
 For queries or any issues regarding the bot please open an issue ticket or visit us at <p align="left">
-<a href="https://t.me/snow_white_support" alt="Telegram!"> <img src="https://aleen42.github.io/badges/src/telegram.svg" /> </a>
+<a href="https://t.me/Visa_support" alt="Telegram!"> <img src="https://aleen42.github.io/badges/src/telegram.svg" /> </a>
 
 ## How to setup on Heroku 
 For starters click on this button 
 
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/HuntingBots/AsunaRobot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/callmevp/MissVisa"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 
 ## Our Telegram Channel and Group
 
-* [Support](https://telegram.dog/AsunaRobotSupport)
-* [Discussion](https://telegram.dog/helpcentrebot1)
-* [Second Group](https://telegram.dog/fire_world_entertainment)
+* [Support](https://telegram.dog/Visa_Support)
+* [Discussion](https://telegram.dog/Visa_Support)
+* [Second Group](https://telegram.dog/WeGetTogether)
 
 ## Credits, and Thanks to 
 *   [The Ghost Hunter](https://telegram.dog/The_Ghost_Hunter)
